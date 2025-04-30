@@ -43,7 +43,8 @@ Pesquisa científica:
 <img src="img/DT-ML.webp" width="600px">
 Fonte: https://www.datasciencecentral.com/design-thinking-future-proof-yourself-from-ai/
 
-4. Design Sprint 4.0 - Agile - Prototipação
+
+5. Design Sprint 4.0 - Agile - Prototipação
 
 <img src="https://blog.scottlogic.com/awojtczuk/assets/image2.jpg" width="600px">
 
@@ -53,7 +54,7 @@ Fonte: https://www.thesprintbook.com/
 
 # TCC
 
-Principais etapas do TCC com base em Ciências dos Dados (computação) e a metodologia científica, para graduação ou pós-graduação:
+Principais etapas do TCC (Trabalho de Conclusão de Curso) com base em Ciências dos Dados (computação) e a metodologia científica, para graduação ou pós-graduação:
 
 1. Estabelecer questão de pesquisa - estabelecer hipótese (ASK/QUESTION) - EMPATIZAR
 2. Identificar e obter fontes de dados (GET/WRANGLE) - DEFINIR
@@ -182,7 +183,8 @@ Press, 2000
 
 13. *How to Write a Better Thesis*, David Evans, Paul Gruba, Justin Zobel, Springer, 2014
 
-14. *The Design Sprint: How smart teams start big projects*, Jake Knapp, John Zeratsky, https://www.thesprintbook.com/
+14. *The Design Sprint: How smart teams start big projects*, Jake Knapp, John Zeratsky, 2016
+    - https://www.thesprintbook.com/
 
 # Extra
 
