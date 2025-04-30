@@ -43,6 +43,12 @@ Pesquisa científica:
 <img src="img/DT-ML.webp" width="600px">
 Fonte: https://www.datasciencecentral.com/design-thinking-future-proof-yourself-from-ai/
 
+4. Design Sprint 4.0 - Agile - Prototipação
+
+<img src="https://blog.scottlogic.com/awojtczuk/assets/image2.jpg" width="600px">
+
+<img src="https://blog.scottlogic.com/awojtczuk/assets/image2.jpg" width="600px">
+
 # TCC
 
 Principais etapas do TCC com base em Ciências dos Dados (computação) e a metodologia científica, para graduação ou pós-graduação:
