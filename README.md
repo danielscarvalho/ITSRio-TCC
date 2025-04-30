@@ -47,7 +47,9 @@ Fonte: https://www.datasciencecentral.com/design-thinking-future-proof-yourself-
 
 <img src="https://blog.scottlogic.com/awojtczuk/assets/image2.jpg" width="600px">
 
-<img src="https://blog.scottlogic.com/awojtczuk/assets/image2.jpg" width="600px">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*0BefH0q-rY9nmx5nATt2mg.jpeg" width="600px">
+
+Fonte: https://www.thesprintbook.com/
 
 # TCC
 
@@ -179,6 +181,8 @@ Press, 2000
     - https://www.wolfram.com/language/query-getting-information-from-data-with-the-wolfram-language/
 
 13. *How to Write a Better Thesis*, David Evans, Paul Gruba, Justin Zobel, Springer, 2014
+
+14. *The Design Sprint: How smart teams start big projects*, Jake Knapp, John Zeratsky, https://www.thesprintbook.com/
 
 # Extra
 
