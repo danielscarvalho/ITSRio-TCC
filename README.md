@@ -135,6 +135,8 @@ Mathematica
 
 <img src="https://pbs.twimg.com/media/GCqKbD_bMAEJWeJ?format=jpg&name=small">
 
+<img src="https://scontent.fcgh26-1.fna.fbcdn.net/v/t39.30808-6/493154212_992679673019680_1427485784605701969_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHrGiUOhw2XuDs_hAdJxkwZt3FeyJ50HNy3cV7InnQc3KbkbbBWmcxS-6Q0STD_180&_nc_ohc=kJgETN0LDKsQ7kNvwGNnwjx&_nc_oc=AdmaO9Q-HE4VhRV6Ixs08Bk5oC1Wd5-z2ZddM59qmM-3fGtynbtQXwL4sSZdhUJL7l1x2p9o-p-rmCwahEx5IiI8&_nc_zt=23&_nc_ht=scontent.fcgh26-1.fna&_nc_gid=Pm7mI_bCbW6KBVARNQMlqw&oh=00_AfGHIYVSPbpI9quiyL0jh4sxF9FsRin0rJ7-izP1tZ9uTA&oe=681834E9" width="600px">
+
 # Bibliografia
 
 1. *Metodologia Científica* by Amado L. Cervo, Pedro A. Bervian, Roberto da Silva
