@@ -18,6 +18,7 @@ Professores: https://itsrio.org/wp-content/uploads/2021/10/professores-positsuer
 2. Wolfram Multiparadigm Data Science, em 5 etapas:
 
 - https://www.mpdatascience.com/MultiparadigmDataScienceBrochure.pdf
+- https://web.archive.org/web/20241214081028/https://www.mpdatascience.com/MultiparadigmDataScienceBrochure.pdf
 
 <img src="https://www.wolfram.com/wolfram-u/img/courses/dat103-course.png" width="600px">
 <img src="https://content.wolfram.com/uploads/sites/39/2019/09/mpds-workflow.png" width="600px">
